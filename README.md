@@ -1,7 +1,3 @@
-# ames-housing-ridge-lasso-regression
-A comprehensive house price prediction project using Ridge and Lasso Regression, featuring data preprocessing, feature engineering, cross-validation, hyperparameter tuning, and model evaluation on the Ames Housing dataset.
-
-
 # Ames Housing Price Prediction | Ridge & Lasso Regression
 
 Ames Housing veri seti üzerinde konut satış fiyatlarını tahmin etmeyi amaçlayan, veri keşfinden nihai test analizine kadar **8 bölümlük** uçtan uca makine öğrenmesi projesi.
